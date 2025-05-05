@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sgfgov-medusa-mcp-badge.png)](https://mseep.ai/app/sgfgov-medusa-mcp)
+
 
 # `medusa-mcp`
 
